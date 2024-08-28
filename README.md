@@ -11,7 +11,7 @@ A Noesis script for viewing Metroid: Samus Returns models
 ## How to Use
 * Put the script inside the Noesis Python folder located inside the plugins folder
 * Make sure any PKG files you want to decompress are in the same folder as your plugin, otherwise your file structure will not be correct.
-* Decompress the PKG files using MEDS (extract-pkg.py) or QuickBMS (format-msr.py) script
+* Decompress the PKG files using [MEDS](https://github.com/randovania/mercury-engine-data-structures) ([extract-pkg.py](https://github.com/randovania/mercury-engine-data-structures/blob/main/tools/extract_pkg.py)) or [QuickBMS](https://github.com/LittleBigBug/QuickBMS) ([format-msr.py](https://github.com/sabre230/Noesis-MSR-Script/blob/main/fmt_msr.py)) script
   * MEDS is preferred as it is regularly maintained and platform-agnostic
 * Once the files are decompressed, use the BMS script that comes with the Noesis script to rename the textures inside the decompressed PKG of your choice.
 * Open Noesis and you should be able to view models and animations correctly
