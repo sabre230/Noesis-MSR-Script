@@ -3,7 +3,7 @@ I did not write this script, nor do I maintain it.
 This repository exists to have another source for the file in case it becomes lost. 
 The original file and documentation was sourced from [this link](https://www.vg-resource.com/thread-39767-post-670483.html#pid670483).
 
-Original authors are **ByStander23** (commission) and **Bearborg** (script updates)
+Original authors are **ByStander23** (commission), **Joschuka** (Dread plugin), and **M-1** (Dread plugin)
 
 # Noesis-MSR-Script
 A Noesis script for viewing Metroid: Samus Returns models
